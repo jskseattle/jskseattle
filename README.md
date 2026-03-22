@@ -12,9 +12,5 @@
 | [planfi.org](https://planfi.org) | Financial planning tool | Built with Snapdev, VS Code |
 | More coming soon | Building with Cursor & Claude Code | Python, Claude API |
 
-## Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeffskrause/)
-- 🐙 [GitHub](https://github.com/jskseattle)
-
 ---
-*Product manager who builds things. Currently exploring AI-assisted development and shipping tools that make PMs more effective.*
+*Currently exploring AI-assisted development and shipping tools that make PMs more effective.*
