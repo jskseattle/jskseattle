@@ -10,7 +10,8 @@ AI-powered product tools and scalable platforms that solve real PM problems — 
 
 ## Background
 - **JPMorgan Chase** — Conceived and shipped an AI product coach on enterprise cloud and ChatGPT. Created the knowledge base evaluation framework and prompt architecture. Built a PM enablement platform that scaled from pilot to 25 of 30 product lines. Invited onto the leadership team as the only IC product manager.
-- **Amazon (Prime Video / Fire TV)** — Built products for Prime Video and launched Fire TV internationally across 75 markets.
+- **Amazon (Prime Video Channels)** — Authored the three-year partner monetization PR/FAQ and shipped the self-service tools suite. Launched the first-ever paid promotional placements for streaming partners, opening a new advertising revenue stream.
+- **Amazon (Fire TV)** — Owned the international product roadmap and scaled Fire TV to 1M+ monthly active users across 75 countries. Led pricing, P&L, and go-to-market across two device generations.
 - **Sidecar Health** — Led the core consumer product through 3x ARR growth. Redesigned provider data architecture to cut support contacts 20% YoY. Built a zero-to-one re-enrollment funnel.
 
 ## Featured Projects
