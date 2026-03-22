@@ -10,17 +10,17 @@ Platform products and AI tools where multiple stakeholders need to win. From the
 
 ## Background
 
-### JPMorgan Chase — VP, Product Management
-Shipped **Product Coach**, an AI assistant on enterprise Claude and ChatGPT — designed the knowledge base, evaluation framework, and prompt architecture to scale access to product operating principles across JPMC. Built a PM enablement platform from 0→1, scaling from pilot to **25 of 30 product lines** (250+ PMs, 400+ strategic product artifacts), then expanding to 3 additional lines of business. Invited onto the org leadership team as the **only IC product manager**.
+### JPMorgan Chase — VP, Product Manager (2023–Present)
+Shipped 0→1 AI products and built the product operating infrastructure for JPMorgan's Global Technology organization. Shipped **Product Coach**, an enterprise AI assistant built on Claude and ChatGPT that automated product standards guidance and coaching for **200+ PMs**, validating **20%+ answer actionability improvement** over base models through a blind-testing evaluation framework. Authored the PRFAQ for a 0→1 PM enablement platform, scaling from a 300-user pilot to **4 lines of business**, generating **$1M in annual cost savings** and driving creation of 400+ strategic product artifacts across 25 of 30 product lines. Invited onto the org leadership team as the **only IC product manager**.
 
-### Amazon — Senior PM, Prime Video Channels
-Built the **"Better Than D2C" strategy**: a self-service partner tools suite (analytics, email marketing, merchandising) that gave streaming partners more control over their subscribers than going direct-to-consumer. HBO Max and Discovery+ joined and renewed on the platform because of these tools. Drove subscriber growth through **A/B experimentation** on acquisition and lifecycle features, including the first-ever Prime Video Channels bundles. Launched the **first-ever paid promotional placements** for Channels partners, creating a new advertising revenue stream.
+### Amazon — Sr. Product Manager, Prime Video Channels (2020–2021)
+Authored the 3-year PRFAQ and launched a **self-service partner growth platform** (API analytics, email marketing, merchandising) that shifted Channels economics from pure distribution to **performance-based monetization**, directly enabling onboarding and renewal of HBO Max and Discovery+. Orchestrated the end-to-end launch of **AMC+** — the first Live TV and ad-supported channel on Prime Video — establishing the go-to-market playbook for future DAI-enabled launches. Conceived and launched the **first paid placement monetization model**, creating a net-new advertising revenue stream across the partner ecosystem.
 
-### Amazon — Senior Product Marketing Manager, Fire TV
-Launched Fire TV Stick across **75+ countries** including two device generations in EU and Canada, driving **1M+ MAUs** by defining the 3-year product roadmap and leading pricing, P&L, and go-to-market strategy.
+### Amazon — Sr. Product Marketing Manager, Fire TV (2017–2020)
+Owned product and go-to-market strategy for Fire TV Stick across **75+ markets**, scaling to **1M+ MAUs** while optimizing unit economics and demand forecasting to drive **$32M in LTV**. Launched Gen 1 internationally and drove strategic market selection for Gen 2 (Canada, France, Italy, Spain), beating sales forecast by **10%** and driving **15% increase in minutes-per-user** vs. Gen 1.
 
-### Sidecar Health — Senior PM, Core Experience Lead
-Led the core consumer product through **3x ARR growth**, redesigning care search, provider directory, and claims transparency to reduce care costs 23% YoY and increase CSAT 18%. Built a 0→1 re-enrollment funnel achieving **70% member retention** (17 points above industry average). Redesigned the provider data architecture from NPI-based to location-based indexing, cutting support contacts **20% YoY**.
+### Sidecar Health — Sr. Product Manager, Core Experience Lead (2021–2023)
+Owned end-to-end consumer product strategy and technical infrastructure during **3x ARR growth** at a Series C health-tech marketplace, leading a squad of 6 engineers. Drove **23% YoY cost reduction** and **+18% CSAT** across price transparency, provider search, and claims visibility. Redesigned provider search indexing from NPI-based to location-based composite keys, cutting support contacts **20% YoY**. Built a 0→1 re-enrollment funnel achieving **70% member retention** vs. 53% industry average.
 
 ## Featured Projects
 
