@@ -3,7 +3,7 @@
 ## What I Build
 - 🔨 Building AI productivity tools with Cursor and Claude Code
 - 📚 Deepening my skills in AI-assisted development and prompt architecture
-- 🤝 Looking for Technical PM roles in Seattle — especially in entertainment/streaming or enterprise AI
+- 🤝 Looking for Technical PM roles in Seattle — especially in entertainment/streaming, consumer, or AI. 
 
 ## Featured Projects
 
