@@ -17,7 +17,7 @@ AI-powered product tools and scalable platforms that solve real PM problems, fro
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [planfi.org](https://planfi.org) | Financial planning tool | Built with Snapdev, VS Code |
+| [planfi.org] | Financial planning tool (recently shut down) | Built with Snapdev, VS Code | 
 | More coming soon | Building with Cursor & Claude Code | Python, Claude API |
 
 ## Connect
