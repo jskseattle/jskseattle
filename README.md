@@ -15,7 +15,7 @@ AI-powered product tools and scalable platforms that solve real PM problems, fro
 
 ## Featured Projects
 
-| Project | What It Does | Stack | Link |
+| Project | What It Does | Stack |
 |---------|-------------|-------|
 | [planfi.org] | Financial planning tool (recently shut down) | Built with Snapdev, VS Code |
 | Market & Customer Insights | PM Tools | Claude, HTML | [Insights Generator](https://jskseattle.github.io/pm-tools/tools/market-insights/index.html) |
