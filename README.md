@@ -19,6 +19,7 @@ AI-powered product tools and scalable platforms that solve real PM problems, fro
 |---------|-------------|-------|
 | [planfi.org] | Financial planning tool (recently shut down) | Built with Snapdev, VS Code | 
 | More coming soon | Building with Cursor & Claude Code | Python, Claude API |
+| Market & Customer Insights | PM Tools | Claude, HTML |
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeffskrause/)
